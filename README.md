@@ -1,6 +1,6 @@
 # Freie Kunst nach Lust und Laune
 
-Freie Kunst nach Lust und Laune ist eine Präsentationsplattfrom für kreative Beiträge.
+Freie Kunst nach Lust und Laune ist eine Präsentationsplattfrom für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
 ## OpenEye 09.09.2017
