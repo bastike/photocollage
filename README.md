@@ -1,7 +1,7 @@
 # Freie Kunst nach Lust und Laune
 
-## James R. Mayga - Renner (Chillwave) 29.04.2018
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=refgeiw3Tok" frameborder="0" allowfullscreen></iframe>
+## Old Sax Monkey ft. James R. Mayga - Bologna 25.09.2017
+![Bologna]({{ "/pic/bologna.mp4" | absolute_url }})
 
 ## OpenEye 09.09.2017
 ![OpenEye]({{ "/pic/openeye.JPG" | absolute_url }})
