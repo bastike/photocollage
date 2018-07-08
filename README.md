@@ -1,3 +1,3 @@
 # photocollage
 
-![openeye]{pic/openeye.jpg}
+![openeye](/pic/openeye.jpg)
