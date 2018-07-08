@@ -1,3 +1,3 @@
 # photocollage
 
-![openeye](/pic/openeye.jpg)
+![openeye](https://github.com/bastike/photocollage/blob/master/pic/openeye.JPG)
