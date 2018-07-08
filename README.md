@@ -7,5 +7,4 @@ categories: jekyll update
 ---
 
 
-# photocollage
 ![My helpful screenshot]({{ "/pic/openeye.JPG" | absolute_url }})
