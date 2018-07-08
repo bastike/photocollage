@@ -6,4 +6,4 @@ Touristen ernährt.<<
 
 
 
-[[/pic/openeye.JPG" data-canonical-src="/pic/openeye.JPGg|alt=octocat]]
+<img src="/pic/openeye.JPG" data-canonical-src="/pic/openeye.JPG" width="794" height="899" />
