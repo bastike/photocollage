@@ -4,5 +4,6 @@ Gias di,
        das sich von durchreisenden
 Touristen ernährt.<<
 
-<img src="/pic/openeye.JPG" data-canonical-src="/pic/openeye.JPG" width="794" height="899" />
 
+
+[[/pic/openeye.JPG" data-canonical-src="/pic/openeye.JPGg|alt=octocat]]
