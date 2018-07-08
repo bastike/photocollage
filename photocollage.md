@@ -1,5 +1,6 @@
 # Photocollage
-
-OpenEye 09.09.2017
-
-![My helpful screenshot]({{ "/pic/openeye.JPG" | absolute_url }})
+Freie Kunst nach Lust und Laune.
+## OpenEye 09.09.2017
+![OpenEye]({{ "/pic/openeye.JPG" | absolute_url }})
+## ZebraFrau 28.06.2017
+![Zebrafrau]({{ "/pic/zebrafrau.JPG" | absolute_url }})
