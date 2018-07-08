@@ -1,4 +1,4 @@
-# Freie Kunst nach Lust und Laune
+# Kunst nach Lust und Laune
 
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattfrom für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
