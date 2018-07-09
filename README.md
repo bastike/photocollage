@@ -13,6 +13,6 @@ Kunst, Musik und Wissenschaft.
 ![Zebrafrau](/pic/zebrafrau.jpg)
 
 # Kontakt
-Sebastian Keidler
+Sebastian Keidler <br/>
 015756578616
 
