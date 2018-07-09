@@ -13,5 +13,6 @@ Kunst, Musik und Wissenschaft.
 ![Zebrafrau](/pic/zebrafrau.jpg)
 
 # Kontakt
-PETER PAN
+Sebastian Keidler
+015756578616
 
