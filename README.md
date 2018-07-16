@@ -4,7 +4,7 @@ Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative B
 Kunst, Musik und Wissenschaft.
 
 ## Saxophone Alpen Turn-Cup 17.03.2018
-[![ApenCup](/pic/AlpenCup.jpeg)](https://www.youtube.com/watch?v=qTNLxRNXDcs")
+[![ApenCup](/pic/AlpenCup.jpg)](https://www.youtube.com/watch?v=qTNLxRNXDcs")
 
 ## Sarasvati 20.01.2018
 [![Renner](/pic/66E617C8-4B80-47F8-97FD-793CA479A03C.jpeg)](https://www.youtube.com/watch?v=refgeiw3Tok&t=1045s")
