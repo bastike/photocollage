@@ -4,7 +4,8 @@ Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative B
 Kunst, Musik und Wissenschaft.
 
 ## Ground Truth 31.07.2018
-[![GroundTruth](/pic/.jpeg)]
+[![GroundTruth](/pic/3B877220-BA3F-40AC-804A-5B6DA48977ED.jpeg)]
+
 ## Saxophone Alpen Turn-Cup 17.03.2018
 [![ApenCup](/pic/AlpenCup.jpg)](https://www.youtube.com/watch?v=qTNLxRNXDcs")
 
