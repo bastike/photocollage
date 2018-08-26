@@ -3,6 +3,9 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
+## Road Trip 22.08.2018
+[link label](/map/20180822-26_RoadTripLaura.html)
+
 ## Ground Truth 31.07.2018
 ![GroundTruth](/pic/3B877220-BA3F-40AC-804A-5B6DA48977ED.jpeg)
 
