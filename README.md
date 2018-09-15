@@ -3,7 +3,7 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
-## Straßendatei.cro Relase 1.0
+## Straßendatei.cro Relase 1.0 15.09.2018
 ![CRO](/pic/CRO.gif)
 
 
