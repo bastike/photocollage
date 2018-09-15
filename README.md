@@ -3,6 +3,10 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
+## .cro Relase 1.0
+![RoadTrip](/pic/CRO.gif)
+
+
 ## Road Trip 22.08.2018
 [![RoadTrip](/pic/roadtrip.PNG)](/pic/20180822-26_RoadTripLaura.html)
 
