@@ -3,17 +3,15 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
-## Grüntenlauf mit Henri 06.11.2018
-![Grunten](/pic/AFCQ3493.JPEG)
 
 
-
+## Autotattoo Alpenpanorama 15.10.2018
+![auto](/pic/touran.png)
 
 ## Straßendatei.cro Relase 1.0 15.09.2018
 ![CRO](/pic/CRO.gif)
 
-## Autotattoo Alpenpanorama 15.10.2018
-![auto](/pic/touran.png)
+
 
 ## Road Trip 22.08.2018
 [![RoadTrip](/pic/roadtrip.PNG)](/pic/20180822-26_RoadTripLaura.html)
