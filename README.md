@@ -4,7 +4,7 @@ Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative B
 Kunst, Musik und Wissenschaft.
 
 ## Mose ft. Suyana 12.04.2019
-### [![MOSE] (/pic/3CAA5DFB-5D89-4558-B1FB-7C126AAC758F.jpeg)](https://m.youtube.com/watch?v=b5H3b_Hh0Lw#)
+[![MOSE] (/pic/3CAA5DFB-5D89-4558-B1FB-7C126AAC758F.jpeg)](https://m.youtube.com/watch?v=b5H3b_Hh0Lw#)
 
 ## Waterpainting Alpenpanorama 14.02.2019
 ![auto](/pic/IMG_2988.jpg)
