@@ -49,6 +49,4 @@ Kunst, Musik und Wissenschaft.
 ## Openminded 30.09.2014
 ![Openminded](/pic/CE1E1661-CB7D-4F45-BE4E-490BD54F567E.jpeg)
 
-### Kontakt
-Sebastian Keidler <br/>
-015756578616
+
