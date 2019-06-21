@@ -3,10 +3,10 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 ## Laura B. 28.04.2019
-![auto](/pic/IMG_3765.jpg)
+![auto](/pic/IMG_3765.JPG)
 
 ## Frauen sind die schönere Art 28.04.2019
-![auto](/pic/AJBU4022.jpg)
+![auto](/pic/AJBU4022.JPG)
 
 ## Mose ft. Suyana 12.04.2019
 [![MOSE](/pic/3CAA5DFB-5D89-4558-B1FB-7C126AAC758F.jpeg)](https://m.youtube.com/watch?v=b5H3b_Hh0Lw#)
