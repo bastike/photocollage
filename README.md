@@ -3,6 +3,9 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
+## Natur 26.11.2019
+![auto](/pic/natur.JPEG)
+
 
 ## Laura B. 28.04.2019
 ![auto](/pic/IMG_3765.JPG)
