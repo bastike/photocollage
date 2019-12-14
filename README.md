@@ -3,6 +3,12 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
+## Spring Flowers 14.12.2019
+![auto](/pic/blumen.jpeg)
+
+## Idea 08.12.2019
+![auto](/pic/activation.jpeg)
+
 ## Natur 26.11.2019
 ![auto](/pic/natur.jpeg)
 
