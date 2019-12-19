@@ -3,6 +3,10 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
+## White Birches 19.12.2019
+![auto](/pic/birken.jpeg)
+
+
 ## Spring Flowers 14.12.2019
 ![auto](/pic/blumen.jpeg)
 
