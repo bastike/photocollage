@@ -2,6 +2,9 @@
 
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
+## Gloomy Moutains 28.02.2020
+![auto](/pic/f58e34b4-9d4a-4ead-b508-0b3edbc6a445.jfif)
+
 
 ## White Birches 19.12.2019
 ![auto](/pic/birken.jpeg)
