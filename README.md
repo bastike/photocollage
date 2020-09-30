@@ -2,9 +2,12 @@
 
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
+
+## Karnischer Hoehenweg 30.09.2020
+![auto](/pic/IMG_9425.jpg)
+
 ## Käsebrett mit Alpenblick 09.07.2020
 ![auto](/pic/IMG_8223_1.jpg)
-
 
 ## James Brown, 2Pac - Unchained (Saxophone Performace on Blender) 12.04.2020
 [![auto](/pic/2.png)](https://youtu.be/dBOZMyx3H84)
