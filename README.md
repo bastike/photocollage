@@ -3,7 +3,7 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
-## Love for Family, Friends and Foreigns 24.12.2020
+## Love for Family, Friends and Foreigners 24.12.2020
 [![auto](/pic/topcover.png)](https://www.youtube.com/playlist?list=PLV0-C-CfeZK2ntmg4xailsxaIkqKZKnL5)
 
 ## Karnischer Hoehenweg 30.09.2020
