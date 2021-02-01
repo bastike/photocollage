@@ -3,6 +3,9 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
+## Love, Unity and Peace
+![auto](/pic/IMG_20210126_102809.jpg) 
+
 ## Love for Family, Friends and Foreigners 24.12.2020
 [![auto](/pic/topcover.png)](https://www.youtube.com/playlist?list=PLV0-C-CfeZK2ntmg4xailsxaIkqKZKnL5)
 
