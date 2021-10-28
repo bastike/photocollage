@@ -3,6 +3,9 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
+## Sunrise at Lorea Huette 13.10.2021
+![auto](/pic/IMG_20211028_154900[2].jpg)
+
 ## Love, Unity and Peace 24.01.2021
 ![auto](/pic/IMG_20210126_102809.jpg) 
 
