@@ -3,6 +3,9 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
+## Connectivity Cameroon 13.01.2022
+![auto](/pic/IMG_20220113_160644.jpg)
+
 ## Sunrise at Lorea Huette 13.10.2021
 ![auto](/pic/IMG_20211028_154900[2].jpg)
 
