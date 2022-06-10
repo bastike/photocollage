@@ -4,7 +4,7 @@ Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative B
 Kunst, Musik und Wissenschaft.
 
 ## Margeriten 10.06.2022
-![auto](/pic/Margeriten.png)
+![auto](/pic/margeriten.png)
 
 ## Connectivity Cameroon 13.01.2022
 ![auto](/pic/IMG_20220113_160644.jpg)
