@@ -6,6 +6,10 @@ Kunst, Musik und Wissenschaft.
 ## Margeriten 10.06.2022
 ![auto](/pic/margeriten.png)
 
+## Madam Business 13.04.2022
+![auto](/pic/madam_business.png)
+
+
 ## Connectivity Cameroon 13.01.2022
 ![auto](/pic/IMG_20220113_160644.jpg)
 
