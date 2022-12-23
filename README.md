@@ -3,6 +3,9 @@
 Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative Beiträge.<br/>
 Kunst, Musik und Wissenschaft.
 
+## Cloudy Winter Sunrise
+![auto](/pic/IMG_20221209_085329_edit_118352155910064.jpg) 
+
 ## Margeriten 10.06.2022
 ![auto](/pic/margeriten.png)
 
