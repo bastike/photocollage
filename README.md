@@ -5,7 +5,7 @@ Kunst, Musik und Wissenschaft.
 
 
 ## Adult Mind 24-25.07.2023
-![auto](/pic/IMG_20221209_085329_edit_118352155910064.jpg)(https://github.com/bastike/photocollage/blob/master/pic/IMG_20230725_004717.jpg)
+![auto](/pic/IMG_20230725_004717.jpg) 
 
 ## Cloudy Winter Sunrise 05.12.2022
 ![auto](/pic/IMG_20221209_085329_edit_118352155910064.jpg) 
