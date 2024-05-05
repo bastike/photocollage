@@ -5,7 +5,7 @@ Kunst, Musik und Wissenschaft.
 
 
 ## Positive Game Changer 05.05.2024
-![auto](/pic/WhatsApp Image 2024-05-05 at 13.15.42.jpeg) 
+![auto](/pic/WhatsApp Image 2024-05-05 at 13.15.42.jpg) 
 
 ## Cloudy Winter Sunrise 05.12.2022
 ![auto](/pic/IMG_20221209_085329_edit_118352155910064.jpg) 
