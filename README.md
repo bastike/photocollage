@@ -4,8 +4,8 @@ Freie Kunst nach Lust und Laune ist eine Präsentationsplattform für kreative B
 Kunst, Musik und Wissenschaft.
 
 
-## Adult Mind 25.07.2023
-![auto](/pic/IMG_20230725_004717.jpg) 
+## Adult Mind 05.05.2024
+![auto](/pic/) 
 
 ## Cloudy Winter Sunrise 05.12.2022
 ![auto](/pic/IMG_20221209_085329_edit_118352155910064.jpg) 
