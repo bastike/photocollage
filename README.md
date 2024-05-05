@@ -73,15 +73,6 @@ Kunst, Musik und Wissenschaft.
 ## Autotattoo Alpenpanorama 15.10.2018
 ![auto](/pic/touran.png)
 
-## Straßendatei.cro Release 1.0 15.09.2018
-![CRO](/pic/CRO.gif)
-
-## Road Trip 22.08.2018
-[![RoadTrip](/pic/roadtrip.PNG)](/pic/20180822-26_RoadTripLaura.html)
-
-## Ground Truth 31.07.2018
-![GroundTruth](/pic/3B877220-BA3F-40AC-804A-5B6DA48977ED.jpeg)
-
 ## Saxophone Alpen Turn-Cup 17.03.2018
 [![ApenCup](/pic/AlpenCup.jpg)](https://www.youtube.com/watch?v=qTNLxRNXDcs")
 
